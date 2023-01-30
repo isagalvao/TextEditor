@@ -36,7 +36,17 @@ namespace TextEditor
 
     static void Editor()
     {
-
+      Console.Clear();
+      Console.WriteLine("Digite o texto (Para sair Utilize o ESC):");
+      Console.WriteLine("-----------------------------------------");
+      string text = "";
+      do
+      {
+        text += Console.ReadLine();
+        text += Environment.NewLine;
+      }
+      while (Console.ReadKey().Key != ConsoleKey.Escape);
+      Console.Write(text);
     }
 
 
