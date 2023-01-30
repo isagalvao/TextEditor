@@ -1,0 +1,15 @@
+C:\Users\sarai\dev\TextEditor\bin\Debug\net7.0\TextEditor.exe
+C:\Users\sarai\dev\TextEditor\bin\Debug\net7.0\TextEditor.deps.json
+C:\Users\sarai\dev\TextEditor\bin\Debug\net7.0\TextEditor.runtimeconfig.json
+C:\Users\sarai\dev\TextEditor\bin\Debug\net7.0\TextEditor.dll
+C:\Users\sarai\dev\TextEditor\bin\Debug\net7.0\TextEditor.pdb
+C:\Users\sarai\dev\TextEditor\obj\Debug\net7.0\TextEditor.csproj.AssemblyReference.cache
+C:\Users\sarai\dev\TextEditor\obj\Debug\net7.0\TextEditor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sarai\dev\TextEditor\obj\Debug\net7.0\TextEditor.AssemblyInfoInputs.cache
+C:\Users\sarai\dev\TextEditor\obj\Debug\net7.0\TextEditor.AssemblyInfo.cs
+C:\Users\sarai\dev\TextEditor\obj\Debug\net7.0\TextEditor.csproj.CoreCompileInputs.cache
+C:\Users\sarai\dev\TextEditor\obj\Debug\net7.0\TextEditor.dll
+C:\Users\sarai\dev\TextEditor\obj\Debug\net7.0\refint\TextEditor.dll
+C:\Users\sarai\dev\TextEditor\obj\Debug\net7.0\TextEditor.pdb
+C:\Users\sarai\dev\TextEditor\obj\Debug\net7.0\TextEditor.genruntimeconfig.cache
+C:\Users\sarai\dev\TextEditor\obj\Debug\net7.0\ref\TextEditor.dll
